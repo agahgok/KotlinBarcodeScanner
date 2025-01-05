@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Theme -->
+    <style name="Base.Theme.Barcod" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Varsayılan renkler -->
+        <item name="colorPrimary">#000000</item> <!-- Siyah -->
+        <item name="colorPrimaryVariant">#000000</item> <!-- Siyah -->
+        <item name="colorSecondary">#FFFFFF</item> <!-- Beyaz -->
+        <item name="colorSurface">#000000</item> <!-- Siyah -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- Beyaz -->
+        <item name="android:statusBarColor">#000000</item> <!-- Üst bar siyah -->
+        <item name="android:windowBackground">#000000</item> <!-- Pencere siyah -->
+        <item name="colorButtonNormal">#000000</item> <!-- Buton siyah -->
+        <item name="android:backgroundTint">@null</item> <!-- Tint kaldırıldı -->
+    </style>
+
+    <!-- Application Theme -->
+    <style name="Theme.Barcod" parent="Base.Theme.Barcod" />
+
+</resources>
