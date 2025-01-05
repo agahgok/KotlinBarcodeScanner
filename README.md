@@ -41,7 +41,6 @@ This project is licensed under the **MIT License**.
 
 ## Author
 **[Agah Gök](https://github.com/agahgok)**  
-Passionate about Kotlin and Android development.
 
 ## Screenshot
 
